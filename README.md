@@ -12,6 +12,12 @@ Implemente la función `es_primo` con un algoritmo que resuelva el problema.
 
 Este proyecto requiere `python3`. Asegúrese que esté instalado en su distribución de linux.
 
+Instalar la biblioteca del sistema `gnuplot` para graficación
+
+```bash
+sudo apt install gnuplot
+```
+
 Si no lo ha hecho anteriormente, crear un ambiente virtual para las dependencias
 
 ```bash
